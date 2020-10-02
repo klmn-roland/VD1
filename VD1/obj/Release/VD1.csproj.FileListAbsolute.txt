@@ -1,0 +1,9 @@
+E:\LAPTOP\Dokumentumok\Visual Studio 2015\Projects\EGYETEM\VD1\VD1\bin\Release\VD1.exe.config
+E:\LAPTOP\Dokumentumok\Visual Studio 2015\Projects\EGYETEM\VD1\VD1\bin\Release\VD1.exe
+E:\LAPTOP\Dokumentumok\Visual Studio 2015\Projects\EGYETEM\VD1\VD1\bin\Release\VD1.pdb
+E:\LAPTOP\Dokumentumok\Visual Studio 2015\Projects\EGYETEM\VD1\VD1\obj\Release\VD1.csprojAssemblyReference.cache
+E:\LAPTOP\Dokumentumok\Visual Studio 2015\Projects\EGYETEM\VD1\VD1\obj\Release\VD1.VD1_Form.resources
+E:\LAPTOP\Dokumentumok\Visual Studio 2015\Projects\EGYETEM\VD1\VD1\obj\Release\VD1.Properties.Resources.resources
+E:\LAPTOP\Dokumentumok\Visual Studio 2015\Projects\EGYETEM\VD1\VD1\obj\Release\VD1.csproj.GenerateResource.cache
+E:\LAPTOP\Dokumentumok\Visual Studio 2015\Projects\EGYETEM\VD1\VD1\obj\Release\VD1.exe
+E:\LAPTOP\Dokumentumok\Visual Studio 2015\Projects\EGYETEM\VD1\VD1\obj\Release\VD1.pdb
